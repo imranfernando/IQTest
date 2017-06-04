@@ -1,0 +1,29 @@
+apply plugin: 'com.android.application'
+
+android {
+    compileSdkVersion 25
+    buildToolsVersion "25.0.2"
+
+    defaultConfig {
+        applicationId "com.iqchamp1.pack.iqtest"
+        minSdkVersion 12
+        targetSdkVersion 25
+        versionCode 4
+        versionName "1.1"
+    }
+    buildTypes {
+        release {
+            minifyEnabled false
+            proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.pro'
+        }
+    }
+}
+
+dependencies {
+    compile fileTree(include: ['*.jar'], dir: 'libs')
+    compile 'com.android.support:appcompat-v7:25.0.0'
+    compile project(':facebook')
+    compile 'com.google.android.gms:play-services-ads:8.3.0'
+    compile files('libs/apache-httpcomponents-httpcore.jar')
+    compile files('libs/apache-httpcomponents-httpclient.jar')
+}

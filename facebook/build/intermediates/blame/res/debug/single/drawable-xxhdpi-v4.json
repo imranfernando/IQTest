@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "E:\\IRN\\android\\IQTest\\facebook\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\com_facebook_button_like_icon_selected.png",
+        "source": "E:\\IRN\\android\\IQTest\\facebook\\res\\drawable-xxhdpi\\com_facebook_button_like_icon_selected.png"
+    },
+    {
+        "merged": "E:\\IRN\\android\\IQTest\\facebook\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\com_facebook_button_like_background_selected.png",
+        "source": "E:\\IRN\\android\\IQTest\\facebook\\res\\drawable-xxhdpi\\com_facebook_button_like_background_selected.png"
+    },
+    {
+        "merged": "E:\\IRN\\android\\IQTest\\facebook\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\com_facebook_button_like_pressed.png",
+        "source": "E:\\IRN\\android\\IQTest\\facebook\\res\\drawable-xxhdpi\\com_facebook_button_like_pressed.png"
+    },
+    {
+        "merged": "E:\\IRN\\android\\IQTest\\facebook\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\com_facebook_button_like_background.png",
+        "source": "E:\\IRN\\android\\IQTest\\facebook\\res\\drawable-xxhdpi\\com_facebook_button_like_background.png"
+    },
+    {
+        "merged": "E:\\IRN\\android\\IQTest\\facebook\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\com_facebook_button_like_icon.png",
+        "source": "E:\\IRN\\android\\IQTest\\facebook\\res\\drawable-xxhdpi\\com_facebook_button_like_icon.png"
+    }
+]
